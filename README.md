@@ -73,7 +73,7 @@ Python                   2 repos             ████████░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/Together4/Together4/blob/master/charts/bar_graph.png) 
+![Chart not found](https://github.com/Together4/Together4/blob/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
