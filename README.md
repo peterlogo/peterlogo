@@ -8,6 +8,7 @@ Skills: REACT NATIVE / REACT / JS / HTML / CSS / NODE JS / PYTHON
 
 - 🔭 I’m currently working on this page. 
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
