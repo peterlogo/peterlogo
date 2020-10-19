@@ -7,11 +7,11 @@ Skills: REACT NATIVE / REACT / JS / HTML / CSS / NODE JS / PYTHON
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Together4&theme=dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-65-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 153 Contributions in the Year 2020
+> 🏆 159 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -50,13 +50,15 @@ Sunday       51 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     19 mins             ████████████████████████░   97.09% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.48% 
+JSX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  20 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  20 mins             █████████████████████████   100.0%
 
 ```
 
@@ -71,7 +73,7 @@ Python                   2 repos             ████████░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/Together4/Together4/blob/main/charts/bar_graph.png) 
+![Chart not found](https://github.com/Together4/Together4/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
