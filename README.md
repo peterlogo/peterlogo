@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Peter Logo
 #### I am a UI/UX designer and Developer
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Together4&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Together4&show_icons=true&count_private=true&theme=dark)
 
 Skills: REACT NATIVE / REACT / JS / HTML / CSS / NODE JS / PYTHON
 
