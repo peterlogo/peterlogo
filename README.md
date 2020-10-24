@@ -7,11 +7,11 @@ Skills: REACT NATIVE / REACT / JS / HTML / CSS / NODE JS / PYTHON
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Together4&theme=dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-66-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 159 Contributions in the Year 2020
+> 🏆 161 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -50,17 +50,17 @@ Sunday       51 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               2 hrs 6 mins        █████████████░░░░░░░░░░░░   54.98% 
-JSX                      1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   35.17% 
-YAML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.49% 
-SCSS                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+JSX                      4 hrs 7 mins        ███████████░░░░░░░░░░░░░░   46.79% 
+JavaScript               3 hrs 52 mins       ███████████░░░░░░░░░░░░░░   43.83% 
+SCSS                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.89% 
+YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.67% 
+TypeScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64%
 
 🔥 Editors: 
-VS Code                  3 hrs 49 mins       █████████████████████████   100.0%
+VS Code                  8 hrs 49 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 49 mins       █████████████████████████   100.0%
+Windows                  8 hrs 49 mins       █████████████████████████   100.0%
 
 ```
 
@@ -75,7 +75,7 @@ Python                   2 repos             ████████░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/Together4/Together4/blob/main/charts/bar_graph.png) 
+![Chart not found](https://github.com/Together4/Together4/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
