@@ -7,11 +7,11 @@ Skills: REACT NATIVE / REACT / JS / HTML / CSS / NODE JS / PYTHON
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Together4&theme=dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-100-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 212 Contributions in the Year 2020
+> 🏆 215 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -75,7 +75,7 @@ Python                   2 repos             ████████░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/Together4/Together4/blob/main/charts/bar_graph.png) 
+![Chart not found](https://github.com/Together4/Together4/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
