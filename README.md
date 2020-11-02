@@ -7,7 +7,7 @@ Skills: REACT NATIVE / REACT / JS / HTML / CSS / NODE JS / PYTHON
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Together4&theme=dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
 
 **🐱 My Github Data** 
 
@@ -50,16 +50,13 @@ Sunday       58 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               25 mins             ████████████░░░░░░░░░░░░░   48.54% 
-JSX                      21 mins             ██████████░░░░░░░░░░░░░░░   41.9% 
-SCSS                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  52 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  52 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
