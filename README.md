@@ -7,17 +7,17 @@ Skills: REACT NATIVE / REACT / JS / HTML / CSS / NODE JS / PYTHON
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Together4&theme=dark&layout=compact)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 221 Contributions in the Year 2020
+> 🏆 225 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 21 Public Repositories
+> 📜 22 Public Repositories
  > 
 > 🔑 0 Private Repository 
  > 
@@ -50,16 +50,17 @@ Sunday       58 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               5 hrs 14 mins       ███████████████░░░░░░░░░░   60.91% 
-JSX                      3 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   37.48% 
-TypeScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+JavaScript               6 hrs 15 mins       ███████████████░░░░░░░░░░   60.57% 
+JSX                      3 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   33.2% 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.46% 
+TypeScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
 
 🔥 Editors: 
-VS Code                  8 hrs 36 mins       █████████████████████████   100.0%
+VS Code                  10 hrs 19 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  8 hrs 36 mins       █████████████████████████   100.0%
+Windows                  10 hrs 19 mins      █████████████████████████   100.0%
 
 ```
 
@@ -74,7 +75,7 @@ Python                   2 repos             ████████░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/Together4/Together4/blob/main/charts/bar_graph.png) 
+![Chart not found](https://github.com/Together4/Together4/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
