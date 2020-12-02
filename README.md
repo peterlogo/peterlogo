@@ -11,6 +11,8 @@ Skills: REACT NATIVE / REACT / JS / HTML / CSS / NODE JS / PYTHON
 
 **🐱 My Github Data** 
 
+> 🏆 237 Contributions in the Year 2020
+ > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -48,15 +50,15 @@ Sunday       58 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               2 hrs 45 mins       ████████████████████████░   96.4% 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86% 
+TypeScript               2 hrs 45 mins       ████████████████████████░   96.39% 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.87% 
 JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74%
 
 🔥 Editors: 
-VS Code                  2 hrs 52 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 51 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 52 mins       █████████████████████████   100.0%
+Windows                  2 hrs 51 mins       █████████████████████████   100.0%
 
 ```
 
@@ -71,7 +73,7 @@ Python                   2 repos             ████████░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Together4/Together4/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/Together4/Together4/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
