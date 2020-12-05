@@ -11,7 +11,7 @@ Skills: REACT NATIVE / REACT / JS / HTML / CSS / NODE JS / PYTHON
 
 **🐱 My Github Data** 
 
-> 🏆 237 Contributions in the Year 2020
+> 🏆 238 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -50,15 +50,15 @@ Sunday       58 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               3 hrs               ███████████████████░░░░░░   77.95% 
-JSON                     50 mins             █████░░░░░░░░░░░░░░░░░░░░   21.81% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
+TypeScript               1 hr 56 mins        █████████████████░░░░░░░░   70.24% 
+JSON                     49 mins             ███████░░░░░░░░░░░░░░░░░░   29.69% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 🔥 Editors: 
-VS Code                  3 hrs 51 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 45 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 51 mins       █████████████████████████   100.0%
+Windows                  2 hrs 45 mins       █████████████████████████   100.0%
 
 ```
 
@@ -73,7 +73,7 @@ Python                   2 repos             ████████░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Together4/Together4/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/Together4/Together4/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
