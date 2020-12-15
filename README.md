@@ -15,7 +15,7 @@ Skills: REACT NATIVE / REACT / JS / HTML / CSS / NODE JS / PYTHON
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 22 Public Repositories 
  > 
