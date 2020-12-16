@@ -19,7 +19,7 @@ Skills: REACT NATIVE / REACT / JS / HTML / CSS / NODE JS / PYTHON
  > 
 > 📜 22 Public Repositories 
  > 
-22 Private Repository 
+> 🔑 0 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
