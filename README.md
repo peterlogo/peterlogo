@@ -72,7 +72,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Together4/Together4/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/Together4/Together4/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
