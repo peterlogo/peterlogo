@@ -11,7 +11,7 @@ Skills: REACT NATIVE / REACT / JS / HTML / CSS / NODE JS / PYTHON
 
 **🐱 My Github Data** 
 
-> 🏆 241 Contributions in the Year 2020
+> 🏆 242 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -72,7 +72,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Together4/Together4/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/Together4/Together4/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
