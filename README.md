@@ -50,13 +50,14 @@ Sunday       58 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               13 mins             █████████████████████░░░░   83.94% 
+JSON                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.06%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  16 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  16 mins             █████████████████████████   100.0%
 
 ```
 
