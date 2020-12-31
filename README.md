@@ -2,9 +2,9 @@
 #### I am a UI/UX designer and Developer
 Skills: REACT NATIVE / REACT / JS / HTML / CSS / NODE JS / PYTHON
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Together4&show_icons=true&count_private=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=peterlogo&show_icons=true&count_private=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Together4&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterlogo&theme=dark&layout=compact)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
@@ -76,7 +76,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Together4/Together4/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/peterlogo/peterlogo/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
