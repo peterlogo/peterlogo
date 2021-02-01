@@ -11,13 +11,13 @@ Skills: REACT NATIVE / REACT / JS / HTML / CSS / NODE JS / PYTHON
 
 **🐱 My Github Data** 
 
-> 🏆 57 Contributions in the Year 2021
+> 🏆 59 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 24 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
