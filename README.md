@@ -7,7 +7,7 @@ Skills: REACT NATIVE / REACT / JS / HTML / CSS / NODE JS / PYTHON
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterlogo&theme=dark&layout=compact&langs_count=8)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My Github Data** 
 
@@ -50,14 +50,17 @@ Sunday       64 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               8 hrs 38 mins       █████████████████████████   99.99% 
+TypeScript               9 hrs 7 mins        ███████████████████████░░   95.42% 
+JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.75% 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14% 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  8 hrs 38 mins       █████████████████████████   100.0%
+VS Code                  9 hrs 33 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  8 hrs 38 mins       █████████████████████████   100.0%
+Windows                  9 hrs 33 mins       █████████████████████████   100.0%
 
 ```
 
