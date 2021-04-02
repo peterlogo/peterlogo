@@ -7,7 +7,7 @@ Skills: REACT NATIVE / REACT / JS / HTML / CSS / NODE JS / PYTHON
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterlogo&theme=dark&layout=compact&langs_count=8)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
@@ -55,10 +55,10 @@ JSON                     7 mins              ░░░░░░░░░░░�
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 
 🔥 Editors: 
-VS Code                  6 hrs 34 mins       █████████████████████████   100.0%
+VS Code                  6 hrs 35 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 hrs 34 mins       █████████████████████████   100.0%
+Windows                  6 hrs 35 mins       █████████████████████████   100.0%
 
 ```
 
