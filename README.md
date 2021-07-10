@@ -79,7 +79,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/peterlogo/peterlogo/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/07/2021
+ Last Updated on 10/07/2021
 <!--END_SECTION:waka-->
 
 
