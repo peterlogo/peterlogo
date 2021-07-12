@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Peter Logo
 
-#### I am an experienced Web Developer who is adept in all stages of advanced web development. Knowledgeable in user interface design, 
+I am an experienced Web Developer who is adept in all stages of advanced web development. Knowledgeable in user interface design, 
 testing, and debugging processes. Bringing forth expertise in the design, installation, testing, and maintenance of web systems. 
 Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
