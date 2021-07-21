@@ -9,7 +9,7 @@ Able to effectively self-manage during independent projects, as well as collabor
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterlogo&theme=dark&layout=compact&langs_count=8)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 **🐱 My Github Data** 
 
@@ -52,16 +52,14 @@ Sunday       110 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               20 mins             ██████████████████░░░░░░░   74.58% 
-JSON                     5 mins              █████░░░░░░░░░░░░░░░░░░░░   19.78% 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   5.39% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
+JSON                     5 mins              ███████████████████░░░░░░   77.55% 
+JavaScript               1 min               █████░░░░░░░░░░░░░░░░░░░░   22.45%
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.0%
+VS Code                  6 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.0%
+Windows                  6 mins              █████████████████████████   100.0%
 
 ```
 
@@ -81,7 +79,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/peterlogo/peterlogo/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/07/2021
+ Last Updated on 21/07/2021
 <!--END_SECTION:waka-->
 
 
