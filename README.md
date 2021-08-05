@@ -13,7 +13,7 @@ Able to effectively self-manage during independent projects, as well as collabor
 
 **🐱 My Github Data** 
 
-> 🏆 615 Contributions in the Year 2021
+> 🏆 616 Contributions in the Year 2021
  > 
 > 📦 8.8 kB Used in Github's Storage 
  > 
@@ -52,14 +52,14 @@ Sunday       111 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               3 hrs 1 min         ████████████████░░░░░░░░░   65.87% 
-JavaScript               1 hr 33 mins        ████████░░░░░░░░░░░░░░░░░   34.13%
+TypeScript               3 hrs 11 mins       ████████████████░░░░░░░░░   65.18% 
+JavaScript               1 hr 42 mins        ████████░░░░░░░░░░░░░░░░░   34.82%
 
 🔥 Editors: 
-VS Code                  4 hrs 35 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 53 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  4 hrs 35 mins       █████████████████████████   100.0%
+Windows                  4 hrs 53 mins       █████████████████████████   100.0%
 
 ```
 
@@ -79,7 +79,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/peterlogo/peterlogo/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/08/2021
+ Last Updated on 05/08/2021
 <!--END_SECTION:waka-->
 
 
