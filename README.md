@@ -11,11 +11,11 @@ Able to effectively self-manage during independent projects, as well as collabor
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 674 Contributions in the Year 2021
  > 
-> 📦 10.1 kB Used in Github's Storage 
+> 📦 10.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -82,7 +82,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/peterlogo/peterlogo/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
 
 
