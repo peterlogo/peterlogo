@@ -13,9 +13,9 @@ Able to effectively self-manage during independent projects, as well as collabor
 
 **🐱 My GitHub Data** 
 
-> 🏆 819 Contributions in the Year 2021
+> 🏆 820 Contributions in the Year 2021
  > 
-> 📦 10.7 kB Used in GitHub's Storage 
+> 📦 10.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -52,16 +52,14 @@ Sunday       115 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               13 hrs 53 mins      ███████████████████████░░   93.45% 
-JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28% 
-JavaScript               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.24% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+TypeScript               12 hrs 3 mins       ████████████████████████░   96.11% 
+JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.89%
 
 🔥 Editors: 
-VS Code                  14 hrs 51 mins      █████████████████████████   100.0%
+VS Code                  12 hrs 32 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  14 hrs 51 mins      █████████████████████████   100.0%
+Windows                  12 hrs 32 mins      █████████████████████████   100.0%
 
 ```
 
@@ -81,7 +79,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/peterlogo/peterlogo/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/11/2021
+ Last Updated on 26/11/2021
 <!--END_SECTION:waka-->
 
 
