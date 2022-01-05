@@ -9,7 +9,7 @@ Able to effectively self-manage during independent projects, as well as collabor
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterlogo&theme=dark&layout=compact&langs_count=8)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -52,16 +52,17 @@ Sunday       156 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               4 hrs 4 mins        ████████████░░░░░░░░░░░░░   50.08% 
-JavaScript               3 hrs 53 mins       ████████████░░░░░░░░░░░░░   47.85% 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42% 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64%
+TypeScript               4 hrs 4 mins        ████████████████░░░░░░░░░   67.15% 
+JavaScript               1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   28.32% 
+Rust                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.53% 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13% 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86%
 
 🔥 Editors: 
-VS Code                  8 hrs 8 mins        █████████████████████████   100.0%
+VS Code                  6 hrs 4 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  8 hrs 8 mins        █████████████████████████   100.0%
+Windows                  6 hrs 4 mins        █████████████████████████   100.0%
 
 ```
 
@@ -81,7 +82,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/peterlogo/peterlogo/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/01/2022
+ Last Updated on 05/01/2022
 <!--END_SECTION:waka-->
 
 
