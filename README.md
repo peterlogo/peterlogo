@@ -13,7 +13,7 @@ Able to effectively self-manage during independent projects, as well as collabor
 
 **🐱 My GitHub Data** 
 
-> 🏆 239 Contributions in the Year 2022
+> 🏆 241 Contributions in the Year 2022
  > 
 > 📦 11.3 kB Used in GitHub's Storage 
  > 
@@ -52,16 +52,14 @@ Sunday       184 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               2 hrs 28 mins       ████████████████░░░░░░░░░   63.76% 
-JavaScript               1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   34.34% 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.78% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+JavaScript               1 hr 20 mins        ███████████████████████░░   95.06% 
+CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.94%
 
 🔥 Editors: 
-VS Code                  3 hrs 53 mins       █████████████████████████   100.0%
+VS Code                  1 hr 24 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 53 mins       █████████████████████████   100.0%
+Windows                  1 hr 24 mins        █████████████████████████   100.0%
 
 ```
 
@@ -81,7 +79,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/peterlogo/peterlogo/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/01/2022 18:35:45 UTC
+ Last Updated on 25/01/2022 18:37:02 UTC
 <!--END_SECTION:waka-->
 
 
