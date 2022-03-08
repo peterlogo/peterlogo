@@ -9,11 +9,11 @@ Able to effectively self-manage during independent projects, as well as collabor
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterlogo&theme=dark&layout=compact&langs_count=8)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 479 Contributions in the Year 2022
+> 🏆 537 Contributions in the Year 2022
  > 
 > 📦 12.3 kB Used in GitHub's Storage 
  > 
@@ -26,22 +26,22 @@ Able to effectively self-manage during independent projects, as well as collabor
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.57% 
-🌆 Daytime    369 commits    ████████░░░░░░░░░░░░░░░░░   32.2% 
-🌃 Evening    512 commits    ███████████░░░░░░░░░░░░░░   44.68% 
-🌙 Night      121 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.56%
+🌞 Morning    143 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.59% 
+🌆 Daytime    337 commits    ████████░░░░░░░░░░░░░░░░░   32.03% 
+🌃 Evening    470 commits    ███████████░░░░░░░░░░░░░░   44.68% 
+🌙 Night      102 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.7%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       155 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.53% 
-Tuesday      121 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.56% 
-Wednesday    211 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.41% 
-Thursday     177 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.45% 
-Friday       183 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.97% 
-Saturday     123 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.73% 
-Sunday       176 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.36%
+Monday       153 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.54% 
+Tuesday      108 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
+Wednesday    188 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.87% 
+Thursday     166 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.78% 
+Friday       158 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.02% 
+Saturday     127 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.07% 
+Sunday       152 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.45%
 
 ```
 
@@ -52,13 +52,13 @@ Sunday       176 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   28 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  28 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  28 mins             █████████████████████████   100.0%
 
 ```
 
@@ -78,7 +78,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/peterlogo/peterlogo/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/03/2022 18:36:47 UTC
+ Last Updated on 08/03/2022 18:37:03 UTC
 <!--END_SECTION:waka-->
 
 
