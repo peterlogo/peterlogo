@@ -9,7 +9,7 @@ Able to effectively self-manage during independent projects, as well as collabor
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterlogo&theme=dark&layout=compact&langs_count=8)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-920%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-924%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
 
@@ -54,17 +54,17 @@ Sunday       106 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               24 hrs 53 mins      ████████████████████████░   95.96% 
-JSON                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68% 
-Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93% 
-HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85% 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
+TypeScript               21 hrs 1 min        ████████████████████████░   97.7% 
+Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12% 
+HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67% 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 🔥 Editors: 
-VS Code                  25 hrs 56 mins      █████████████████████████   100.0%
+VS Code                  21 hrs 31 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  25 hrs 56 mins      █████████████████████████   100.0%
+Windows                  21 hrs 31 mins      █████████████████████████   100.0%
 
 ```
 
@@ -84,7 +84,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/peterlogo/peterlogo/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/11/2022 18:42:38 UTC
+ Last Updated on 04/11/2022 18:40:11 UTC
 <!--END_SECTION:waka-->
 
 
