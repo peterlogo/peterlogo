@@ -9,12 +9,14 @@ Able to effectively self-manage during independent projects, as well as collabor
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterlogo&theme=dark&layout=compact&langs_count=8)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-931%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-938%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
 **🐱 My GitHub Data** 
 
+> 🏆 1,246 Contributions in the Year 2022
+ > 
 > 📦 10.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -52,17 +54,17 @@ Sunday       106 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               24 hrs 53 mins      ████████████████████████░   97.54% 
-Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95% 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92% 
-HTML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+TypeScript               23 hrs 36 mins      ████████████████████████░   97.75% 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16% 
+Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  25 hrs 31 mins      █████████████████████████   100.0%
+VS Code                  24 hrs 9 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  25 hrs 31 mins      █████████████████████████   100.0%
+Windows                  24 hrs 9 mins       █████████████████████████   100.0%
 
 ```
 
@@ -82,7 +84,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/peterlogo/peterlogo/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/11/2022 18:39:23 UTC
+ Last Updated on 08/11/2022 18:42:53 UTC
 <!--END_SECTION:waka-->
 
 
