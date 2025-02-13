@@ -11,6 +11,8 @@ Frontend: React, React Native
 Backend: Node.js, SQL, NoSQL
 Cloud & DevOps: AWS, Docker, Kubernetes
 Version Control: Git
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=peterlogo&show_icons=true&count_private=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterlogo&theme=dark&layout=compact&langs_count=8)
