@@ -1,9 +1,16 @@
-### Hi there 👋, My name is Peter Logo
+### Hi there 👋
 
-I am an experienced Web Developer who is adept in all stages of advanced web development. Knowledgeable in user interface design, 
-testing, and debugging processes. Bringing forth expertise in the design, installation, testing, and maintenance of web systems. 
-Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
+🚀 Peter Logo | Full Stack Developer | Blockchain Engineer
+🔹 Skilled Full Stack Developer with 4+ years of experience in TypeScript, JavaScript, React, Node.js, and cloud-based architectures.
+🔹 Blockchain Enthusiast with hands-on experience in Solana, Ethereum, and Polygon ecosystems.
+🔹 Passionate about scalable, high-uptime cloud solutions, system optimizations, and secure authentication protocols.
 
+🛠 Tech Stack
+Languages: TypeScript, JavaScript, Python, Solidity
+Frontend: React, React Native
+Backend: Node.js, SQL, NoSQL
+Cloud & DevOps: AWS, Docker, Kubernetes
+Version Control: Git
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=peterlogo&show_icons=true&count_private=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterlogo&theme=dark&layout=compact&langs_count=8)
